@@ -30,7 +30,7 @@ const Footer = () => {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li><a href="#" className="hover:text-foreground">About</a></li>
                 <li><a href="#" className="hover:text-foreground">Careers</a></li>
-                <li><a href="#" className="hover:text-foreground">Contact</a></li>
+                <li><a href="/support" className="hover:text-foreground">Contact</a></li>
               </ul>
             </div>
             <div>
@@ -38,7 +38,7 @@ const Footer = () => {
                 Legal
               </h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
-                <li><a href="#" className="hover:text-foreground">Privacy</a></li>
+                <li><a href="/privacy" className="hover:text-foreground">Privacy</a></li>
                 <li><a href="#" className="hover:text-foreground">Terms</a></li>
               </ul>
             </div>
